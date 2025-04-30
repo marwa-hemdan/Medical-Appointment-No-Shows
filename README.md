@@ -1,4 +1,5 @@
 According to this dataset https://www.kaggle.com/datasets/joniarroba/noshowappointments/data
+
 Goal: Find what factors affect whether a patient shows up for their appointment.
 Step 1: Clean the Data
 I use filters and formulas to 
