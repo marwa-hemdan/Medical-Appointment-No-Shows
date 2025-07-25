@@ -112,3 +112,7 @@ Several factors seem to influence whether a patient shows up:
 * **Time gap between scheduling and appointment day:** Longer wait times lead to more no-shows.
 * **SMS reminders:** Showed limited effectiveness, possibly due to targeting or message content.
 * **Neighborhood differences:** Suggest deeper socioeconomic influences.
+* 
+![med2](https://github.com/user-attachments/assets/671e7fae-8244-4fea-90cd-b600edc9febc)
+
+![med1](https://github.com/user-attachments/assets/cd3a5876-a2b3-46b9-a004-09ea35f09a22)
